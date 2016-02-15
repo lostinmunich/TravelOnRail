@@ -6,5 +6,11 @@
 * zhangziqi 云火车app [云火车下载链接（链接可能已失效）][id]
 [id]:http://cloudtrain.zhangziqi.com/CloudTrain_HuoCheBa.apk<br>
 * RailMaster app 来自内部分享，尚未发布
-
+* zhxq@zhxqweb.com 火车wiki [火车wiki][id]
+[id]:http://huoche.wiki<br>
+* 中国火车地图 http://ren-chang.github.io/SlippyRailMapCn/
+* 海子铁路网 http://bbs.hasea.com/index.php
+* 铁路之家 http://www.aitielu.com/ 
+* 高铁管家
+* 
 
